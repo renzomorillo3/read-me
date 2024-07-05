@@ -1,0 +1,166 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<center>\n",
+    "    <img src=\"https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2/images/SN_web_lightmode.png\" width=\"300\" alt=\"cognitiveclass.ai logo\">\n",
+    "</center>\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "# Proyecto Final de Ciencia de Datos\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "## Introducción\n",
+    "Este cuaderno demuestra el uso de celdas de markdown y código en Jupyterlite para la ciencia de datos. Se cubren varios aspectos como lenguajes de programación, bibliotecas y herramientas comunes en este campo.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "## Lenguajes de Ciencia de Datos\n",
+    "1. Python\n",
+    "2. R\n",
+    "3. SQL\n",
+    "4. Julia\n",
+    "5. Scala\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "## Bibliotecas de Ciencia de Datos\n",
+    "- NumPy\n",
+    "- Pandas\n",
+    "- Scikit-learn\n",
+    "- TensorFlow\n",
+    "- Keras\n",
+    "- ggplot2\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "## Herramientas de Ciencia de Datos\n",
+    "\n",
+    "| Herramienta          | Descripción                         |\n",
+    "|----------------------|-------------------------------------|\n",
+    "| Jupyter Notebook     | Entorno interactivo para la escritura y ejecución de código en Python |\n",
+    "| RStudio              | Entorno de desarrollo integrado (IDE) para R |\n",
+    "| Apache Spark         | Motor de procesamiento unificado y de análisis de datos a gran escala |\n",
+    "| Tableau              | Herramienta de visualización de datos |\n",
+    "| TensorFlow           | Biblioteca de aprendizaje automático |\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "## Ejemplos de Expresiones Aritméticas\n",
+    "A continuación se presentan algunos ejemplos de expresiones aritméticas en Python.\n",
+    "\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "# Ejercicio 8 - Multiplicar y sumar números\n",
+    "a = 5\n",
+    "b = 4\n",
+    "multiplicacion = a * b\n",
+    "suma = a + b\n",
+    "multiplicacion, suma\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "# Ejercicio 9 - Convertir minutos en horas\n",
+    "minutos = 150\n",
+    "horas = minutos / 60\n",
+    "horas\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "## Objetivos\n",
+    "1. Entender los conceptos básicos de un cuaderno Jupyter.\n",
+    "2. Aprender a utilizar celdas de markdown para documentar el trabajo.\n",
+    "3. Demostrar habilidades básicas de codificación en Python.\n",
+    "4. Compartir el cuaderno a través de GitHub.\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "## Autor\n",
+    "Nombre del Autor: Renzo.\n",
+    "\n",
+    "\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
